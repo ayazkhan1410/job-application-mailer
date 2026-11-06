@@ -1,0 +1,9 @@
+Subject: Application for Backend Developer - {company}
+Dear Hiring Team at {company},
+
+I'm {name}, a backend developer interested in roles at {company}.
+
+My resume is attached. I'd be glad to discuss how I can help your team.
+
+Kind regards,
+{name}

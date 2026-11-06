@@ -1,0 +1,34 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Your resume / attachments
+*.pdf
+*.doc
+*.docx
+Ayaz_Khan_Resume.pdf
+
+# Personal send history and working lists (keep examples instead)
+sent_log.csv
+recipients.csv
+recipients_global.csv
+message.txt
+message_global.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
